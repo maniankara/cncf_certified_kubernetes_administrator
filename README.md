@@ -1,0 +1,2 @@
+# cncf_certified_kubernetes_administrator
+Cloud Native computing foundation's Kubernetes certified adminstration preparatory material/notes
